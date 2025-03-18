@@ -5,7 +5,6 @@ Python script to merge multiple Apache2 access log files into a single file, sor
 ✅ Efficient log processing (merges, sorts, and writes logs correctly).
 ✅ User input for flexibility (log directory, output file, sorting order).
 
-
 Features:
 User Input: Asks for log directory and output file location.
 Sorting Order: Allows user to choose ascending or descending order.
@@ -16,6 +15,5 @@ Steps:
 Read all log files.
 Extract timestamp and sort entries.
 Write sorted logs to a new file.
-
 
 Can be used to multiple merger error.log files
